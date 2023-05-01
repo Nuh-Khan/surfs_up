@@ -19,9 +19,11 @@ The examination of temperature data for the two specific time periods reveals th
 
 
 ## Summary
-The data shows that the surf and ice cream shop has a good chance at being succesful year-round. The averages temperatures did not vary by much for June and December. Even with the minimum temperature being 56 degrees Fahrenheit it would be unlikely to be a deal breaker as the average temperature is still high.
+The data shows that the surf and ice cream shop has a good chance at being successful year-round. The average temperatures did not vary by much for June and December. Even with the minimum temperature being 56 degrees Fahrenheit it would be unlikely to be a deal breaker as the average temperature is still high.
+
 
 ### Additional Queries
-To acquire more data additional queries could be ran.
-- Building a query to analyze daily precipitation amount for both months would ensure there would be no issue in opening the surf and ice cream shop.
-- Alongside daily precipitation amount it would be benefical to build a query to look at precipitation on average by month, it is possible that a certain month would not be ideal due to excess precipitation. 
+To acquire more data additional queries could be run.
+
+- Building a query to analyze daily precipitation amounts for both months would ensure there would be no issue in opening the surf and ice cream shop.
+- Alongside daily precipitation amounts it would be beneficial to build a query to look at precipitation on average by month, it is possible that a certain month would not be ideal due to excess precipitation.
